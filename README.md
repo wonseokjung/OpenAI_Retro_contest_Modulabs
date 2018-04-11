@@ -25,6 +25,6 @@ gym retro:
 
 https://github.com/openai/retro
 
-###Collaborator
+### Collaborator
 
 김경환
