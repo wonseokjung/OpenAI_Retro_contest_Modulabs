@@ -2,6 +2,7 @@ OpenAI_Retro_contest_Modulabs
 =============================
 
 This is for OpenAI Retro contest ( Making sonic agent with reinforcement learning algorithm ), 오픈에이아이 소닉 대회를 위한 모두의연구소 깃허브 입니다.
+### bloging
 
 1편 : OpenAIRetro Contest 참여 및 소닉 설치방법 https://wonseokjung.github.io//openairetro/update/Retro-1/
 
@@ -11,9 +12,16 @@ https://wonseokjung.github.io//openairetro/update/openai-retro-2/
 
 https://contest.openai.com/
 
-Paper to Read:
+### Paper to Read:
 
 Tech report : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/retro-contest/gotta_learn_fast_report.pdf
+
+
+### Links 
+
+Baselines
+https://github.com/openai/retro-baselines
+
 
 Retro Contest
 
