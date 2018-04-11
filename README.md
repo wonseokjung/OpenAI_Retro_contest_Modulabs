@@ -3,6 +3,16 @@ This is for OpenAI Retro contest ( Making sonic agent with reinforcement learnin
 
 
 
+
+1편 : OpenAIRetro Contest 참여 및 소닉 설치방법 
+https://wonseokjung.github.io//openairetro/update/Retro-1/
+
+제2편 Open AI Retro 소닉 대회 : 대회 목표, 대회 참여, 에이전트 제출
+
+https://wonseokjung.github.io//openairetro/update/openai-retro-2/
+
+
+
 https://contest.openai.com/
 
 
