@@ -15,6 +15,12 @@ https://wonseokjung.github.io//openairetro/update/openai-retro-2/
 
 https://contest.openai.com/
 
+Paper to Read: 
+
+Tech report : 
+https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/retro-contest/gotta_learn_fast_report.pdf
+
+
 
 Retro Contest
 
