@@ -17,6 +17,15 @@ https://contest.openai.com/
 Tech report : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/retro-contest/gotta_learn_fast_report.pdf
 
 
+https://arxiv.org/abs/1511.05952
+priority
+https://arxiv.org/pdf/1511.06581.pdf
+dueling
+https://arxiv.org/abs/1706.10295
+noisy
+https://arxiv.org/abs/1707.06887
+distribution
+
 ### Links 
 
 Baselines
